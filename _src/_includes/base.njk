@@ -4,8 +4,8 @@
   {% include "head.njk" %}
 </head>
 <body>
-    <div class="d-flex p-4 mx-auto flex-column">
     {% include "nav.njk" %}
+    <div class="d-flex p-4 mx-auto flex-column">
     {{ content | safe }}
     {% include "footer.njk" %}
     </div>

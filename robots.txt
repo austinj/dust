@@ -1,4 +1,4 @@
-Sitemap: https://www.ahjohnson.com/sitemap.xml
+Sitemap: https://www.dustdatamgmt.com/sitemap.xml
 
 User-agent: *
 Disallow:
